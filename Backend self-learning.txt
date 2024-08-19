@@ -1,0 +1,20 @@
+
+Dapr (some extra info: https://docs.google.com/document/d/1-oOajTEqzUMuq7-cApQ7ORAbAX9JQ-5kuXHoPzVzvIc/edit)
+Containers - docker + compose
+ASP.net minimal APIs
+HTTP client (.net)
+dependency injection
+Polly
+MongoDB
+Azure - Blob storage, SAS token
+Queues - RabitMQ, Azure service bus
+Azure event grid
+API gateway - ocelot
+SignalR
+Json Schema Validation
+IDesign Method - Manager , Engine , Accessor
+Learn testing framework
+Saga (https://www.nuget.org/packages/Sagaway)
+AutoMapper
+Kusto Query Language (Azure data explorer - KQL) - for the logging
+Auth0
